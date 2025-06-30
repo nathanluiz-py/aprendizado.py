@@ -1,4 +1,4 @@
-# tipo de dado bool (boolean)
+# tipo de dado bool (boolean)  
 # ao questionar algo em um programa
 # so existe duas respostas possiveis : sim(True) - nao(False)
 # == operador logico de comparacao para true e false
