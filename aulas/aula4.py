@@ -1,4 +1,4 @@
-# tipos int e float
+# tipos int e float 
 # int -> numero inteiro
 # tipo intrepresenta qualquer numero inteiro
 print(11) #int
