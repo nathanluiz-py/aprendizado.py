@@ -1,5 +1,5 @@
 # if \ elif \ else
-# se \ se nao se \ se naooo
+# se \ se nao se \ se nao
 # teste 1 com numeros
 
 sistema = input('Digite seu sistema: ')
