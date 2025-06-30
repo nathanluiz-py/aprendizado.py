@@ -1,4 +1,4 @@
-# Operadores lógicos
+# Operadores lógicos    
 # or (ou)
 # considera se caso alguma das expressoes sao verdadeiras uma (ou) outra
 # São considerados falsy (que vc já viu)
