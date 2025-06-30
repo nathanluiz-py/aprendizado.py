@@ -1,5 +1,5 @@
 # Operadores in(entre) e not in(nao entre)
-# string sao iteraveis
+# string sao iteraveis    
 # 0 1 2 3 4 5
 # | | | | | |
 # n a t h a n
