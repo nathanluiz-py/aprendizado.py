@@ -1,4 +1,4 @@
-# if / elif      / else
+# if / elif / else
 # se / se não se / se não
 #caso esteja puro o py pergunta e verdeiro
 
