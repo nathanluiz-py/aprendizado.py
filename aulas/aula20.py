@@ -1,4 +1,4 @@
-#exercicio para ver qual valor e maior
+#exercicio para ver qual valor e maior   
 val_1 = input('Digite o primeiro valor: ')
 val_2 = input('Digite o segundo valor: ')
 
