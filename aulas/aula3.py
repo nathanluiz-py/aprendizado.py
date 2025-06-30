@@ -1,5 +1,5 @@
 '''
-Tipo de tipagem = dinamica / forte
+Tipo de tipagem = dinamica / forte    
 string -> texto
 strings sao textos dentro de ''ou"" 
 
