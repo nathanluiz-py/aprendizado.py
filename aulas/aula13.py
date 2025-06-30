@@ -1,4 +1,4 @@
-#Fstring 
+#Fstring
 #:.2f (numero de casas decimais)
 
 nome ='Marcio'
