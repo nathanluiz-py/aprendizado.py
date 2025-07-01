@@ -1,5 +1,5 @@
 '''
-Fatiamento de strings
+Fatiamento de strings   
 012345 #indeice
 ||||||
 nathan
