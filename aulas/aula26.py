@@ -22,4 +22,6 @@ print(f'{variavel:^10}.')#ao centro
 print(f'{1000.4873648123746:0=+10,.1f}')#formatar numero
 print(f'O hexadecimal de 1500 é {1500:020X}') #variavel e depois coloca o numero de casas desejadas,sempre comecar com zero
 print(f'{variavel!r}')
+
+
 #caso queira preencher com algo so colocar um caractere antes dossinais ><^
