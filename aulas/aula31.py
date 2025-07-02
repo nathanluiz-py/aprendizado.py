@@ -10,7 +10,7 @@ id = Identidade
 # print(id(v1))
 
 
-nome = input('Digite seu nome: ')
+nome = None  # Ainda não sabemos o nome do usuário
 
 if nome is None:
     
