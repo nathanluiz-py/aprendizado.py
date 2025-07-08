@@ -29,7 +29,17 @@ while True:
         print('Digite apenas um operador.')
         continue
 
-    ###
+    if operador == '+':
+        print(f'{num_1_float}+{num_2_float} =',num_1_float + num_2_float)
+        
+    elif operador == '-':
+        print(f'{num_1_float}-{num_2_float} =',num_1_float - num_2_float)
+
+    elif operador == '*':
+        print(f'{num_1_float}*{num_2_float} =',num_1_float * num_2_float)
+
+    elif operador == '/':
+        print(f'{num_1_float}/{num_2_float} =',num_1_float / num_2_float)
 
     sair = input('Quer sair? [s]im: ').lower().startswith('s')
 
